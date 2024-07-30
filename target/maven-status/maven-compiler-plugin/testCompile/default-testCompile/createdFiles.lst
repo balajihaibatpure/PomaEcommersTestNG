@@ -1,0 +1,7 @@
+pumo\E_commerce\AppTest.class
+test\TestAllcategoriespage.class
+listeners\Listeners.class
+test\TestHomepage.class
+test\TestLoginLogoutPage.class
+base\Base.class
+test\TestRegisterPage.class

@@ -1,0 +1,16 @@
+
+<suite name="Suite">
+	<listeners>
+		<listener
+			class-name="old.listeners.MyListeners.java"></listener>
+	</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="test.TestHomepage"/>
+      <class name="test.TestLoginLogoutPage"/>
+      <class name="test.TestAllcategoriespage"/>
+      <class name="pumo.E_commerce.AppTest"/>
+      <class name="test.TestRegisterPage"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,6 @@
+pageobject\LoginLogoutPage.class
+utilites\ExtentReport.class
+pageobject\HomePage.class
+pageobject\RegisterPage.class
+pumo\E_commerce\App.class
+pageobject\AllCategoriesPage.class
